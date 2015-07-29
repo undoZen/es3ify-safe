@@ -1,0 +1,34 @@
+{
+  "author": {
+    "email": "opensource@undozen.com",
+    "name": "undoZen"
+  },
+  "bugs": {
+    "url": "https://github.com/undoZen/es3ify-safe/issues"
+  },
+  "dependencies": {
+    "es3ify": "^0.1.3",
+    "through": "^2.3.7"
+  },
+  "description": "prevent es3ify to crash browserify compilation",
+  "devDependencies": {},
+  "homepage": "https://github.com/undoZen/es3ify-safe#readme",
+  "keywords": [
+    "es3ify",
+    "ie8"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "es3ify-safe",
+  "optionalDependencies": {},
+  "readme": "# es3ify-safe\nprevent es3ify to crash browserify compilation\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/undoZen/es3ify-safe.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.3"
+}
